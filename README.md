@@ -1,4 +1,4 @@
-# Mr.HelpMateAI – Insurance Policy RAG (Simple README)
+# Mr.HelpMateAI – Insurance Policy RAG System
 
 A lightweight Retrieval‑Augmented Generation (RAG) workflow that ingests an insurance policy PDF, chunks pages, embeds text with **SentenceTransformer (all‑MiniLM‑L6‑v2)**, stores vectors in **ChromaDB**, and answers user questions using **semantic search + cache + (optional) re‑ranking**. 
 
